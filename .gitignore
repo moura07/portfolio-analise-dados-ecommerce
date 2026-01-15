@@ -1,0 +1,19 @@
+# Dados (não versionar)
+01_dados/bruto/
+01_dados/tratado/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sistema (Windows)
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
