@@ -1,8 +1,8 @@
 # Dados (não versionar)
-01_dados/bruto/
-01_dados/tratado/
-*.csv
-*.zip
+01_dados/bruto/*
+01_dados/tratado/*
+!01_dados/bruto/.gitkeep
+!01_dados/tratado/.gitkeep
 
 # Jupyter
 .ipynb_checkpoints/
